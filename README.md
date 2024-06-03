@@ -1,4 +1,4 @@
-# DancingPaper
+# CellTumbling
 
 Code for upcoming manuscript. 
 
